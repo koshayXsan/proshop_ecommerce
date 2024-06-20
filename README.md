@@ -62,8 +62,15 @@ npm install
 - cd frontend
 - npm run build
 
+  
+## Acknowledgments
+
+This project is based on the work of bradtraversy Their original project can be found https://github.com/bradtraversy/proshop-v2/tree/main .
+
+
 
 # License
+-This is the original license of the author whose work I have followed to create this project
 - The MIT License
 Copyright (c) 2023 Traversy Media https://traversymedia.com
 
