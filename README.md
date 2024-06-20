@@ -24,11 +24,12 @@ This project is a fully functional e-commerce website built using the MERN stack
 
 1. **Clone the repository**:
    ```bash
+   
 
 Usage
 
-Create a MongoDB database and obtain your MongoDB URI - MongoDB Atlas
-Create a PayPal account and obtain your Client ID - PayPal Developer
+- Create a MongoDB database and obtain your MongoDB URI - MongoDB Atlas
+-Create a PayPal account and obtain your Client ID - PayPal Developer
 
 Env Variables
 Rename the .env.example file to .env and add the following
