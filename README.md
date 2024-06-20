@@ -1,4 +1,4 @@
-# E-commerce Website (Clone from bradtraversy udemy course)
+# E-commerce Website (Clone from bradtraversy MERN COURSE)
 
 This project is a fully functional e-commerce website built using the MERN stack (MongoDB, Express, React, Node.js). The platform features user authentication, product listings, a shopping cart, and secure payment processing.
 I built this project to hone my web development skills and gain a strong foundation in this field.
