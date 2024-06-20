@@ -23,9 +23,7 @@ This project is a fully functional e-commerce website built using the MERN stack
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
    
-
 Usage
 
 - Create a MongoDB database and obtain your MongoDB URI - MongoDB Atlas
@@ -50,12 +48,14 @@ cd frontend
 npm install
 Run
 
-# Run frontend (:3000) & backend (:5000)
+# Run 
+frontend (:3000) & backend (:5000)
 npm run dev
 
 
 # Run backend only
 npm run server
+
 
 Build & Deploy
 # Create frontend prod build
